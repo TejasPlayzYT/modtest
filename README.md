@@ -10,7 +10,7 @@ Welcome to the **Mod of Stuff**! This mod introduces an ultimate autosmelting pi
 
 ## Installation
 
-1. Download the latest version of the mod from the [Releases](https://github.com/YourUsername/ModOfStuff/releases) page.
+1. Download the latest version of the mod from the [Releases](https://github.com/TejasPlayzYT/modtest/releases) page.
 2. Place the downloaded `.jar` file in your `mods` folder.
 3. Launch Minecraft with the Forge profile.
 
@@ -34,6 +34,6 @@ Feel free to fork this repository and submit pull requests. All contributions ar
 
 ## Support
 
-If you encounter any issues or have any questions, please open an issue on the [GitHub Issues](https://github.com/YourUsername/ModOfStuff/issues) page.
+If you encounter any issues or have any questions, please open an issue on the [GitHub Issues](https://github.com/TejasPlayzYT/modtest/issues) page.
 
 Enjoy your enhanced Minecraft experience with the **Mod of Stuff**!
